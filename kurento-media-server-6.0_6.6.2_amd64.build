@@ -1,0 +1,11 @@
+ dpkg-buildpackage -rfakeroot -D -us -uc
+dpkg-buildpackage: warning: using a gain-root-command while being root
+dpkg-buildpackage: source package kurento-media-server-6.0
+dpkg-buildpackage: source version 6.6.2
+dpkg-buildpackage: source distribution testing
+dpkg-buildpackage: source changed by Juan Navarro Moreno <juan.navarro@gmx.es>
+ dpkg-source --before-build kurento-media-server
+dpkg-buildpackage: host architecture amd64
+dpkg-checkbuilddeps: Unmet build dependencies: kms-core-6.0-dev (>= 6.6.2) kms-elements-6.0-dev (>= 6.6.2) kms-filters-6.0-dev (>= 6.6.2)
+dpkg-buildpackage: warning: build dependencies/conflicts unsatisfied; aborting
+dpkg-buildpackage: warning: (Use -d flag to override.)

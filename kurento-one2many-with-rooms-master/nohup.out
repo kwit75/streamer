@@ -1,0 +1,3666 @@
+
+> kurento-one2many-call@6.2.2-dev start /home/astreamer/kurento-one2many-with-rooms-master
+> node server.js
+
+img/logo.png
+Open https://localhost:8443/ with a WebRTC capable browser
+Connection received with sessionId - JiJp5Hzs-kYRCK7rAAAA
+Connection received with sessionId - dT5Fwmov2WuXw4CBAAAB
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+undefined
+Get room
+undefined
+Get room
+undefined
+Queueing candidate
+Get room
+undefined
+Queueing candidate
+Get room
+undefined
+Queueing candidate
+Connection received with sessionId - Wrq1cqn4hlnb1MP5AAAC
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Connection Wrq1cqn4hlnb1MP5AAAC closed
+Get room
+1
+Connection received with sessionId - -iojSjI9mUirRicPAAAD
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1607eede-514b-44ad-8e54-35ccc2eb8e9a_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Connection -iojSjI9mUirRicPAAAD closed
+Get room
+1
+Get room
+1
+Connection dT5Fwmov2WuXw4CBAAAB closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - 7vegFkDXN-vht7lLAAAE
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+undefined
+Get room
+undefined
+Get room
+undefined
+Queueing candidate
+Get room
+undefined
+Queueing candidate
+Get room
+undefined
+Queueing candidate
+Connection JiJp5Hzs-kYRCK7rAAAA closed
+Get room
+undefined
+Connection received with sessionId - 4Xe--HJbkqIwTmKdAAAF
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'f0ad1b58-5af7-41b6-91a4-256762277e78_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'f0ad1b58-5af7-41b6-91a4-256762277e78_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+Get room
+2
+Get room
+2
+Queueing candidate
+Get room
+2
+Queueing candidate
+Get room
+2
+Queueing candidate
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'f0ad1b58-5af7-41b6-91a4-256762277e78_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Connection received with sessionId - 3MNq_jh5-veTp2ddAAAG
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'f0ad1b58-5af7-41b6-91a4-256762277e78_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'f0ad1b58-5af7-41b6-91a4-256762277e78_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1b49510d-4af5-4070-9418-cf86614f1ade_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1b49510d-4af5-4070-9418-cf86614f1ade_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Connection 3MNq_jh5-veTp2ddAAAG closed
+Get room
+1
+Connection received with sessionId - v-JgBDcX_y-jW5wrAAAH
+reconnect to server 0 100 9f56580f-fcd7-41dd-b3e3-25d955c1aa93
+Invalid Session
+Connection 7vegFkDXN-vht7lLAAAE closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - xndcZq0ft72iUeGGAAAI
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+Get room
+2
+Get room
+2
+Queueing candidate
+Get room
+2
+Queueing candidate
+Get room
+2
+Queueing candidate
+Get room
+2
+Queueing candidate
+Get room
+2
+Queueing candidate
+undefined starting publishing to 2 room
+start view
+Get room
+undefined
+Get room
+undefined
+Get room
+undefined
+Queueing candidate
+Get room
+undefined
+Queueing candidate
+start view
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Connection 4Xe--HJbkqIwTmKdAAAF closed
+Get room
+1
+Connection received with sessionId - OzuTxsQ8WM9SvjGZAAAJ
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+2
+Queueing candidate
+Get room
+2
+Queueing candidate
+Get room
+2
+Sending viewer candidate
+Get room
+2
+Sending viewer candidate
+Get room
+2
+Sending viewer candidate
+Connection received with sessionId - ylOP4sYBkXaWlopnAAAK
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Connection v-JgBDcX_y-jW5wrAAAH closed
+Get room
+1
+Connection received with sessionId - 1uGu14acZNV5anwnAAAL
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Connection received with sessionId - BiATrjCIltFsi2CPAAAM
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '3ae50899-2efe-407a-b43d-d307a68e7ced_kurento.MediaPipeline' }
+Connection received with sessionId - UbJHHaRWqyFtV6vHAAAN
+Connection ylOP4sYBkXaWlopnAAAK closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - 5B2TtxMv62QvpZchAAAO
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '3ae50899-2efe-407a-b43d-d307a68e7ced_kurento.MediaPipeline' }
+Connection UbJHHaRWqyFtV6vHAAAN closed
+Get room
+2
+Get room
+2
+Connection received with sessionId - 2ZqpDBzFUMbmV-3UAAAP
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '3ae50899-2efe-407a-b43d-d307a68e7ced_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+2
+Get room
+2
+JOIN
+{ room: '6' }
+Join room: 6 with username undefined
+start view
+Get room
+6
+Get room
+6
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+2
+Get room
+2
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+Connection 2ZqpDBzFUMbmV-3UAAAP closed
+Get room
+2
+Get room
+2
+Connection received with sessionId - OqqX-dWGNHI4QN3ZAAAQ
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+undefined
+Get room
+undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'cbe958c5-77a1-4866-9b6d-3e556e5aab0f_kurento.MediaPipeline' }
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+2
+Get room
+2
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'cbe958c5-77a1-4866-9b6d-3e556e5aab0f_kurento.MediaPipeline' }
+Get room
+2
+Get room
+2
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Connection 5B2TtxMv62QvpZchAAAO closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - rBvkOvPD_tA9Wn4mAAAR
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'cbe958c5-77a1-4866-9b6d-3e556e5aab0f_kurento.MediaPipeline' }
+Get room
+2
+Get room
+2
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+2
+Get room
+2
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+2
+Get room
+2
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Get room
+2
+Get room
+2
+JOIN
+{ room: '10' }
+Join room: 10 with username undefined
+start view
+Get room
+10
+Get room
+10
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd22542b2-dd04-40b0-8683-1b8692fe9d76_kurento.MediaPipeline' }
+Connection rBvkOvPD_tA9Wn4mAAAR closed
+Get room
+1
+Get room
+1
+Connection 1uGu14acZNV5anwnAAAL closed
+Get room
+1
+Get room
+1
+Connection OzuTxsQ8WM9SvjGZAAAJ closed
+Get room
+2
+Get room
+2
+Connection xndcZq0ft72iUeGGAAAI closed
+Get room
+2
+Get room
+2
+Connection BiATrjCIltFsi2CPAAAM closed
+Get room
+undefined
+Connection OqqX-dWGNHI4QN3ZAAAQ closed
+Get room
+2
+Connection received with sessionId - mhOU9GS2KPUYWEXDAAAS
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Connection mhOU9GS2KPUYWEXDAAAS closed
+Get room
+1
+Connection received with sessionId - GrSE9vRAmTKU58FPAAAT
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Connection GrSE9vRAmTKU58FPAAAT closed
+Get room
+1
+Connection received with sessionId - 2eVyvxwCRnlK_nYeAAAU
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Connection received with sessionId - 0oB3R7b0zMDrwx7KAAAV
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'a96e444d-bf4b-4394-997d-cfc05b58c6d9_kurento.MediaPipeline' }
+Connection 0oB3R7b0zMDrwx7KAAAV closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - AJZttifI7hzRNe9WAAAW
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'a96e444d-bf4b-4394-997d-cfc05b58c6d9_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'e7c28dd9-19ed-410f-9ee0-696a7ec79d6b_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'e7c28dd9-19ed-410f-9ee0-696a7ec79d6b_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Connection AJZttifI7hzRNe9WAAAW closed
+Get room
+1
+Get room
+1
+Connection 2eVyvxwCRnlK_nYeAAAU closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - 4fVpPgn2DJiIFnspAAAX
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Connection 4fVpPgn2DJiIFnspAAAX closed
+Get room
+1
+Connection received with sessionId - c_TkXgPxMDZ4EWIBAAAY
+Connection c_TkXgPxMDZ4EWIBAAAY closed
+Get room
+undefined
+Connection received with sessionId - VuWeZWX3u0k95RPTAAAZ
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Connection VuWeZWX3u0k95RPTAAAZ closed
+Get room
+1
+Connection received with sessionId - l97LtWoZRBQBVXjFAAAa
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+Connection received with sessionId - mcxj5ICMTazLeQQ9AAAb
+Connection mcxj5ICMTazLeQQ9AAAb closed
+Get room
+undefined
+Connection received with sessionId - xxZhc5XKiQRA-_58AAAc
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd311f91f-8ae2-468f-9ddf-d33684b62643_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd311f91f-8ae2-468f-9ddf-d33684b62643_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd311f91f-8ae2-468f-9ddf-d33684b62643_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Connection l97LtWoZRBQBVXjFAAAa closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - eQeVjFotLZ7vlt20AAAd
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd311f91f-8ae2-468f-9ddf-d33684b62643_kurento.MediaPipeline' }
+Connection eQeVjFotLZ7vlt20AAAd closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - cEKGByf2qmVfBiEWAAAe
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'd311f91f-8ae2-468f-9ddf-d33684b62643_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+Connection cEKGByf2qmVfBiEWAAAe closed
+Get room
+1
+Connection received with sessionId - 7BpBpIbt87BZotxGAAAf
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '00c1467d-c8bf-487a-a854-309d9046a42d_kurento.MediaPipeline' }
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '00c1467d-c8bf-487a-a854-309d9046a42d_kurento.MediaPipeline' }
+Connection 7BpBpIbt87BZotxGAAAf closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - 0BaGnQEFe6ydYLW0AAAg
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '00c1467d-c8bf-487a-a854-309d9046a42d_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+Connection 0BaGnQEFe6ydYLW0AAAg closed
+Get room
+1
+Connection received with sessionId - lrnlXm_hs0b2mMT7AAAh
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+undefined
+Get room
+undefined
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '78c92d5a-3122-4a9d-b354-fb1fe0b007f9_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+Connection xxZhc5XKiQRA-_58AAAc closed
+Get room
+1
+Connection received with sessionId - PRr_DOw9o0h4WlA1AAAi
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '28920817-0dce-4795-96a1-81350492fd81_kurento.MediaPipeline' }
+Connection lrnlXm_hs0b2mMT7AAAh closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - qzvRnrzAewhanxnmAAAj
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '28920817-0dce-4795-96a1-81350492fd81_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+Connection qzvRnrzAewhanxnmAAAj closed
+Get room
+1
+Connection received with sessionId - B-i6y0rOJDzwrlp3AAAk
+Connection B-i6y0rOJDzwrlp3AAAk closed
+Get room
+undefined
+Connection received with sessionId - TtpbzhnCuWkQiJOAAAAl
+Connection TtpbzhnCuWkQiJOAAAAl closed
+Get room
+undefined
+Connection received with sessionId - -_ForK1TX8gnZ1ZwAAAm
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+undefined
+Get room
+undefined
+Get room
+1
+Sending presenter candidate
+Connection -_ForK1TX8gnZ1ZwAAAm closed
+Get room
+undefined
+Connection received with sessionId - Z8EXuNXp5l1oZQoVAAAn
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'c6584aa3-77ec-498a-a94d-8e4865376d49_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+Connection Z8EXuNXp5l1oZQoVAAAn closed
+Get room
+1
+Connection PRr_DOw9o0h4WlA1AAAi closed
+Get room
+1
+Connection received with sessionId - TE8i2W07_IZA9jk2AAAo
+Connection TE8i2W07_IZA9jk2AAAo closed
+Get room
+undefined
+Connection received with sessionId - NeKubbi87BixbqYCAAAp
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Connection received with sessionId - vuS2yq3447351VLdAAAq
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'a4d87eb4-d2cf-4584-af6b-48bd18ecb4e8_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Connection NeKubbi87BixbqYCAAAp closed
+Get room
+1
+Get room
+1
+Connection vuS2yq3447351VLdAAAq closed
+Get room
+1
+Connection received with sessionId - 7t_zziO0h4uwU4-hAAAr
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Connection received with sessionId - KT6UFQ-Zt0HjuGpDAAAs
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Connection KT6UFQ-Zt0HjuGpDAAAs closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - IGcV_yuvpDftU8hiAAAt
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Connection IGcV_yuvpDftU8hiAAAt closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - i1J7PxniZawWxrhaAAAu
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Connection i1J7PxniZawWxrhaAAAu closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - _Q7XXedCspg_kODCAAAv
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+Get room
+2
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+JOIN
+{ room: '4' }
+Join room: 4 with username undefined
+start view
+Get room
+4
+Get room
+4
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Connection _Q7XXedCspg_kODCAAAv closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - Pq8eNRtR9WzoXqZKAAAw
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Connection received with sessionId - egCQZcCWHkUTIAMXAAAx
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '6' }
+Join room: 6 with username undefined
+start view
+Get room
+6
+Get room
+6
+Get room
+6
+Queueing candidate
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Connection egCQZcCWHkUTIAMXAAAx closed
+Get room
+1
+Get room
+1
+Connection Pq8eNRtR9WzoXqZKAAAw closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - O0M5MMrqrWcVoI0iAAAy
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '1be70b30-e3bb-46e9-94a4-6457364bc4c1_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! kurento-one2many-call@6.2.2-dev start: `node server.js`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the kurento-one2many-call@6.2.2-dev start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2018-01-27T14_28_55_198Z-debug.log
+
+> kurento-one2many-call@6.2.2-dev start /home/astreamer/kurento-one2many-with-rooms-master
+> node server.js
+
+img/logo.png
+Open https://localhost:8443/ with a WebRTC capable browser
+Connection received with sessionId - Sa8RqZl1k0MzQ6AEAAAA
+Connection Sa8RqZl1k0MzQ6AEAAAA closed
+Get room
+undefined
+Connection received with sessionId - ygiiDl8HUb0qPDGeAAAB
+Connection received with sessionId - fy0nNiHntwAl7s2SAAAC
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+undefined starting publishing to 1 room
+start view
+Get room
+undefined
+Get room
+undefined
+Get room
+1
+Sending presenter candidate
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '18eed8dd-81fc-4f77-b4a8-162636327c5f_kurento.MediaPipeline' }
+Connection ygiiDl8HUb0qPDGeAAAB closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - nL9xFw88kmlmg7UiAAAD
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '18eed8dd-81fc-4f77-b4a8-162636327c5f_kurento.MediaPipeline' }
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! kurento-one2many-call@6.2.2-dev start: `node server.js`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the kurento-one2many-call@6.2.2-dev start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2018-01-27T14_30_55_561Z-debug.log
+
+> kurento-one2many-call@6.2.2-dev start /home/astreamer/kurento-one2many-with-rooms-master
+> node server.js
+
+img/logo.png
+Open https://localhost:8443/ with a WebRTC capable browser
+Connection received with sessionId - vqU6mWiZBM3lr4IuAAAA
+Connection vqU6mWiZBM3lr4IuAAAA closed
+Get room
+undefined
+Connection received with sessionId - kULOm13OXvKLu2LdAAAB
+Connection received with sessionId - bsuMfV3f6cYCbi9YAAAC
+Connection bsuMfV3f6cYCbi9YAAAC closed
+Get room
+undefined
+Connection received with sessionId - xtObpIQF6MDALWxEAAAD
+Connection xtObpIQF6MDALWxEAAAD closed
+Get room
+undefined
+Connection received with sessionId - ZYsPPwDjRk0jb_XWAAAE
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! kurento-one2many-call@6.2.2-dev start: `node server.js`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the kurento-one2many-call@6.2.2-dev start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2018-01-27T14_32_29_589Z-debug.log
+
+> kurento-one2many-call@6.2.2-dev start /home/astreamer/kurento-one2many-with-rooms-master
+> node server.js
+
+img/logo.png
+Open https://localhost:8443/ with a WebRTC capable browser
+Connection received with sessionId - RnqA7z2dk-rZr44sAAAA
+Connection received with sessionId - b9ySVcDuEofz3F_CAAAB
+Connection RnqA7z2dk-rZr44sAAAA closed
+Get room
+undefined
+Connection received with sessionId - NzJqCEg_4GYha8XqAAAC
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Queueing candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+undefined
+Get room
+undefined
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'ad28765c-d338-47b4-95e8-03dc4dc2721c_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection b9ySVcDuEofz3F_CAAAB closed
+Get room
+1
+Get room
+1
+Connection NzJqCEg_4GYha8XqAAAC closed
+Get room
+1
+Connection received with sessionId - Ol1fYryx5mH71AFjAAAD
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+Connection Ol1fYryx5mH71AFjAAAD closed
+Get room
+1
+Connection received with sessionId - cXd8it0z37Oh4pppAAAE
+Connection cXd8it0z37Oh4pppAAAE closed
+Get room
+undefined
+Connection received with sessionId - 05lz9KuqzjE8DoQoAAAF
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Connection received with sessionId - p8zlsCNCjWyMxV0tAAAG
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'cf4085ff-4226-41f1-b8fd-d913cebc79a1_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+Connection p8zlsCNCjWyMxV0tAAAG closed
+Get room
+1
+Connection received with sessionId - Ht0Uq2HPxSV-kDxEAAAH
+Connection received with sessionId - cBd-r-Syq3cFdqvZAAAI
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Connection 05lz9KuqzjE8DoQoAAAF closed
+Get room
+1
+Connection Ht0Uq2HPxSV-kDxEAAAH closed
+Get room
+undefined
+Connection received with sessionId - tztZamlVi84HvB2QAAAJ
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'ea4d4a20-b72a-4d3f-99a6-1efb446cd341_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection tztZamlVi84HvB2QAAAJ closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - MG0hf9j-gg_ZXAGtAAAK
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'ea4d4a20-b72a-4d3f-99a6-1efb446cd341_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Connection received with sessionId - -83iV8GH6JAItcxJAAAL
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+undefined
+Get room
+undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection received with sessionId - ixaahTCzym4dZaVEAAAM
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+JOIN
+{ room: '4' }
+Join room: 4 with username undefined
+Get room
+4
+Get room
+4
+Queueing candidate
+undefined starting publishing to 4 room
+Get room
+4
+Get room
+4
+JOIN
+{ room: '4' }
+Join room: 4 with username undefined
+Get room
+4
+Get room
+4
+Queueing candidate
+undefined starting publishing to 4 room
+Get room
+4
+Sending presenter candidate
+Connection ixaahTCzym4dZaVEAAAM closed
+Get room
+4
+Get room
+4
+Connection -83iV8GH6JAItcxJAAAL closed
+Get room
+undefined
+Connection MG0hf9j-gg_ZXAGtAAAK closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - 1bDITgfS4bADIhJEAAAN
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Connection received with sessionId - 8K-axqTMmBLB7JfgAAAO
+Connection received with sessionId - JxvQSEpjrTlN7sUaAAAP
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Sending viewer candidate
+Connection 8K-axqTMmBLB7JfgAAAO closed
+Get room
+undefined
+Connection received with sessionId - _ynNsSVTMsaHMzDeAAAQ
+Connection _ynNsSVTMsaHMzDeAAAQ closed
+Get room
+undefined
+Connection received with sessionId - GkQ6y6btlJMLM7p4AAAR
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection received with sessionId - nv2lntCIHkRYFC9UAAAS
+Connection GkQ6y6btlJMLM7p4AAAR closed
+Get room
+1
+Get room
+1
+Connection nv2lntCIHkRYFC9UAAAS closed
+Get room
+undefined
+Connection received with sessionId - 2xZBTmDqfZNp_fQlAAAT
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection 1bDITgfS4bADIhJEAAAN closed
+Get room
+1
+Get room
+1
+Get room
+1
+Get room
+1
+JOIN
+{ room: '10' }
+Join room: 10 with username undefined
+start view
+Get room
+10
+Get room
+10
+Connection 2xZBTmDqfZNp_fQlAAAT closed
+Get room
+10
+Connection received with sessionId - zaixpn5dl1O-18GhAAAU
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection zaixpn5dl1O-18GhAAAU closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - AtnsxUblNyC-sALlAAAV
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection AtnsxUblNyC-sALlAAAV closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - 4ibxEK7aL-7flTVEAAAW
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Connection 4ibxEK7aL-7flTVEAAAW closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - ggxelbbmbQBGk312AAAX
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection ggxelbbmbQBGk312AAAX closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - ovga5GH8JcEKzRt0AAAY
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection ovga5GH8JcEKzRt0AAAY closed
+Get room
+1
+Get room
+1
+Connection received with sessionId - _hq8k8uIwkW2WqtIAAAZ
+Connection _hq8k8uIwkW2WqtIAAAZ closed
+Get room
+undefined
+Connection received with sessionId - 2x5RD0e0aby5cU_ZAAAa
+Connection 2x5RD0e0aby5cU_ZAAAa closed
+Get room
+undefined
+Connection received with sessionId - oXgnKqwUzlB64tpiAAAb
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '32387729-8e3a-4bf0-b201-eced2bebeaea_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection oXgnKqwUzlB64tpiAAAb closed
+Get room
+1
+Get room
+1
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '0afd8b1b-add2-46fd-b801-f701350dbaf3_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '0afd8b1b-add2-46fd-b801-f701350dbaf3_kurento.MediaPipeline' }
+Get room
+1
+Queueing candidate
+Get room
+1
+Sending viewer candidate
+Get room
+1
+Get room
+1
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+Get room
+2
+Get room
+2
+Sending presenter candidate
+Get room
+2
+Sending presenter candidate
+undefined starting publishing to 2 room
+Get room
+2
+Sending presenter candidate
+Get room
+2
+Sending presenter candidate
+Get room
+2
+Sending presenter candidate
+start view
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '927de0c4-263c-44c0-836f-dbcc6af26351_kurento.MediaPipeline' }
+Get room
+2
+Queueing candidate
+Get room
+2
+Sending viewer candidate
+Get room
+2
+Get room
+2
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+Get room
+2
+Get room
+2
+Sending presenter candidate
+Get room
+2
+Sending presenter candidate
+undefined starting publishing to 2 room
+Get room
+2
+Sending presenter candidate
+Get room
+2
+Sending presenter candidate
+Get room
+2
+Sending presenter candidate
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '7786d391-278b-4e66-95f1-0fc7c0038608_kurento.MediaPipeline' }
+Get room
+2
+Sending viewer candidate
+Get room
+2
+Sending viewer candidate
+Get room
+2
+Get room
+2
+JOIN
+{ room: '2' }
+Join room: 2 with username undefined
+start view
+Get room
+2
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: '7786d391-278b-4e66-95f1-0fc7c0038608_kurento.MediaPipeline' }
+Get room
+2
+Sending viewer candidate
+Get room
+2
+Sending viewer candidate
+Get room
+2
+Get room
+2
+JOIN
+{ room: '3' }
+Join room: 3 with username undefined
+start view
+Get room
+3
+Get room
+3
+Get room
+3
+Queueing candidate
+JOIN
+{ room: '3' }
+Join room: 3 with username undefined
+Get room
+3
+Get room
+3
+Sending presenter candidate
+Get room
+3
+Sending presenter candidate
+undefined starting publishing to 3 room
+Get room
+3
+Sending presenter candidate
+Get room
+3
+Sending presenter candidate
+Get room
+3
+Sending presenter candidate
+start view
+Get room
+3
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'dcc6b692-6e92-4573-b26a-6de6d9134593_kurento.MediaPipeline' }
+Get room
+3
+Sending viewer candidate
+Get room
+3
+Sending viewer candidate
+Get room
+3
+Get room
+3
+JOIN
+{ room: '3' }
+Join room: 3 with username undefined
+start view
+Get room
+3
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'dcc6b692-6e92-4573-b26a-6de6d9134593_kurento.MediaPipeline' }
+Get room
+3
+Sending viewer candidate
+Get room
+3
+Sending viewer candidate
+Get room
+3
+Get room
+3
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+Get room
+1
+Get room
+1
+Queueing candidate
+Get room
+1
+Queueing candidate
+JOIN
+{ room: '3' }
+Join room: 3 with username undefined
+start view
+Get room
+3
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'dcc6b692-6e92-4573-b26a-6de6d9134593_kurento.MediaPipeline' }
+Get room
+3
+Sending viewer candidate
+Get room
+3
+Sending viewer candidate
+Get room
+3
+Get room
+3
+Connection cBd-r-Syq3cFdqvZAAAI closed
+Get room
+3
+Connection JxvQSEpjrTlN7sUaAAAP closed
+Get room
+3
+Connection received with sessionId - dPm1yXW80X7H4nlHAAAc
+Connection dPm1yXW80X7H4nlHAAAc closed
+Get room
+undefined
+Connection received with sessionId - l87PuNqbbeFDdKWcAAAd
+Connection l87PuNqbbeFDdKWcAAAd closed
+Get room
+undefined
+Connection received with sessionId - pRCt9RWKORGXk7ytAAAe
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+Get room
+1
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+undefined starting publishing to 1 room
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Get room
+1
+Sending presenter candidate
+Connection received with sessionId - z-uweLeUps9DXBSNAAAf
+JOIN
+{ room: '1' }
+Join room: 1 with username undefined
+start view
+Get room
+1
+room.pipeline MediaPipeline {
+  domain: null,
+  _events: 
+   { removeListener: [Function],
+     newListener: [Function],
+     _describe: [Function: bound ],
+     _rpc: [Function: encodeRpc],
+     _create: [Function: encodeCreate],
+     _transaction: [Function: commitTransactional],
+     release: { [Function: bound onceWrapper] listener: [Function] } },
+  _eventsCount: 7,
+  _maxListeners: undefined,
+  beginTransaction: [Function: bound ],
+  endTransaction: [Function: bound ],
+  transaction: [Function: bound ],
+  create: [Function: bound ],
+  id: 'f46dc871-b19f-4a6f-aa1d-c8acd4e9f0a4_kurento.MediaPipeline' }
+Get room
+1
+Sending viewer candidate
+Connection z-uweLeUps9DXBSNAAAf closed
+Get room
+1
+Get room
+1
+Get room
+1
+Get room
+1

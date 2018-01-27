@@ -1,0 +1,14 @@
+{"logo":"img/logo.png",
+    "Chanells":[
+        {"name":"Mych 1", "id":1},
+        {"name":"Mych 2", "id":2},
+        {"name":"Mych 3", "id":3},
+        {"name":"Mych 4", "id":4},
+        {"name":"Mych 5", "id":5},
+        {"name":"Mych 6", "id":6},
+        {"name":"Mych 7", "id":7},
+        {"name":"Mych 8", "id":8},
+        {"name":"Mych 9", "id":9},
+        {"name":"Mych 10", "id":10}
+    ]
+ }

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="img/kurento.png" type="image/png" />
+
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/demo-console/index.css">
+    <link rel="stylesheet" href="bower_components/ekko-lightbox/dist/ekko-lightbox.min.css">
+    <link rel="stylesheet" href="css/kurento.css">
+
+    <script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+   <script src="bower_components/demo-console/index.js?v=12"></script>  
+    <script src="bower_components/ekko-lightbox/dist/ekko-lightbox.min.js"></script>
+
+    <script src="bower_components/kurento-utils/js/kurento-utils.js"></script>
+    <script src="bower_components/socket.io-client/dist/socket.io.js"></script>
+
+  
+    
+    <script src="js/toastr.min.js"></script>
+     <link rel="stylesheet" href="css/toastr.min.css">
+      <script src="js/indexViewer.js"></script>
+    
+    <title>Streaming project</title>
+  </head>
+  <body>
+
+  <style>
+  .democonsole{
+  display:none;
+  
+  }
+  
+  
+  </style>
+  
+  
+  
+    <header>
+      <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"></button>
+            <a class="navbar-brand" href=".">Streaming project</a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="page-header">
+      
+      <img id="Logo">
+      
+      
+        <h1>Please select the Channel</h1>
+            </div>
+            
+            
+            
+            
+      <div class="row">
+        <div class="col-md-5">
+          <div class="row">
+            <div class="col-md-6">
+              <a  href="#" class="btn btn-primary viewer" data-room=1>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel1" > </span> </a>
+            </div>
+            <div class="col-md-6">
+              <a  href="#" class="btn btn-primary viewer" data-room=6>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel6" > </span></a>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-md-6">
+              <a  href="#" class="btn btn-primary viewer" data-room=2>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel2" > </span></a>
+            </div>
+             <div class="col-md-6">
+              <a  href="#" class="btn btn-primary viewer" data-room=7>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel7" > </span></a>
+            </div>
+            
+          </div>
+            <div class="row">
+            <div class="col-md-6">
+              <a href="#" class="btn btn-primary viewer" data-room=3>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel3" > </span></a>
+            </div>
+               <div class="col-md-6">
+              <a href="#" class="btn btn-primary viewer" data-room=8>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel8" > </span></a>
+            </div>
+            
+          </div>
+          
+             <div class="row">
+            <div class="col-md-6">
+              <a href="#" class="btn btn-primary viewer" data-room=4>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel4" > </span></a>
+            </div>
+             <div class="col-md-6">
+              <a href="#" class="btn btn-primary viewer" data-room=9>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel9" > </span></a>
+            </div>
+            
+            
+          </div>
+          
+              <div class="row">
+            <div class="col-md-6">
+              <a href="#" class="btn btn-primary viewer" data-room=5>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel5" > </span></a>
+            </div>
+            <div class="col-md-6">
+              <a href="#" class="btn btn-primary viewer" data-room=10>
+                <span class="glyphicon glyphicon-user"></span> <span id="channel10" > </span></a>
+            </div>
+ 
+          </div>
+ 
+       <!--   
+          <br/>
+          <label class="control-label" for="console">Console</label><br><br>
+          <div id="console" class="democonsole">
+            <ul></ul>
+          </div>
+          
+          -->
+        </div>
+      
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-7">
+          <div id="videoBig"  >
+       <!--       <video id="video" autoplay width="640px" height="480px" poster="img/webrtc.png"></video> 
+          <video id="video" autoplay style="    height: 1px;    width: 1px;"  poster="img/webrtc.png"></video> -->
+
+
+
+          <audio id="audio"  controls></audio> 
+            
+            
+          </div>
+          
+        </div>
+    </div>
+    
+     <footer>
+      <div class="foot-fixed-bottom">
+        <div class="container text-center">
+          <hr/>
+          <div class="row">&copy; 2014-2018 Streaming project</div>
+          
+        </div>
+      </div>
+    </footer>
+
+  </body>
+</html>
